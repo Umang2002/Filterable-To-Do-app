@@ -1,0 +1,34 @@
+#panel{
+    display:none;
+    background: rgb(73, 75, 74);
+}
+#name {
+    justify-content: center;
+    align-items: center;
+    
+    width : 100vh;
+}
+#lastname{
+    justify-content: center;
+    align-items: center;
+    
+    width : 100vh;
+}
+#mono {
+    justify-content: center;
+    align-items: center;
+    
+    width : 100vh;
+}
+#birth {
+    justify-content: center;
+    align-items: center;
+    
+    width : 100vh;
+}
+#password{
+    justify-content: center;
+    align-items: center;
+    
+    width : 100vh;
+}
