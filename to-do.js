@@ -91,3 +91,6 @@ function filterItems(e){
     }
   });
 }
+
+// Filterable to-do app 
+console.log(li)
